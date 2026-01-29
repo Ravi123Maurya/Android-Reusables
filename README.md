@@ -45,13 +45,6 @@ Button(
 }
 ```
 
-## Requirements
-
-- Kotlin 1.x+
-- Android API level 21+
-- Jetpack Compose (for modifier extensions)
-- Kotlinx Coroutines (for coroutine extensions)
-
 ## License
 
 This repository is open for personal and commercial use.
